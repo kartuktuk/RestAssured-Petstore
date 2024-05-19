@@ -1,0 +1,14 @@
+15:58:27.244 [main] INFO  Petstore.api.test.UserTests - ************ CREATING USER *******************
+15:58:29.460 [main] INFO  Petstore.api.test.UserTests - ************ USER CREATED *******************
+15:58:29.472 [main] INFO  Petstore.api.test.UserTests - ************ GETTING USER BY NAME *******************
+15:58:29.703 [main] INFO  Petstore.api.test.UserTests - ************ UPDATING USER *******************
+15:58:30.061 [main] INFO  Petstore.api.test.UserTests - ************  USER UPDATED *******************
+15:58:30.512 [main] INFO  Petstore.api.test.UserTests - ************ DELETING USER *******************
+15:58:31.004 [main] INFO  Petstore.api.test.UserTests - ************  USER DELETED *******************
+16:02:10.049 [main] INFO  Petstore.api.test.UserTests - ************ CREATING USER *******************
+16:02:13.185 [main] INFO  Petstore.api.test.UserTests - ************ USER CREATED *******************
+16:02:13.196 [main] INFO  Petstore.api.test.UserTests - ************ GETTING USER BY NAME *******************
+16:02:13.569 [main] INFO  Petstore.api.test.UserTests - ************ UPDATING USER *******************
+16:02:13.809 [main] INFO  Petstore.api.test.UserTests - ************  USER UPDATED *******************
+16:02:14.016 [main] INFO  Petstore.api.test.UserTests - ************ DELETING USER *******************
+16:02:14.276 [main] INFO  Petstore.api.test.UserTests - ************  USER DELETED *******************

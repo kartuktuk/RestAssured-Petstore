@@ -7,8 +7,8 @@
     <test name="UserTests" thread-count="5">
     <classes>
         <class name="Petstore.api.test.UserTests"></class>
-       <!-- <class name="Petstore.api.test.UserTestsDrivingFromProperties"></class> -->
-        <!--  <class name="Petstore.api.test.DataDrivenTests"></class> -->
+        <class name="Petstore.api.test.UserTestsDrivingFromProperties"></class>
+          <class name="Petstore.api.test.DataDrivenTests"></class>
 </classes>
 </test>
 </suite>
